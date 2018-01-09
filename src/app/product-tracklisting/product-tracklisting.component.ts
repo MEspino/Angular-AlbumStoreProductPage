@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { NgForOf } from '@angular/common';
 import { Album } from '../album';
 import { ProductService } from '../product.service';
 
